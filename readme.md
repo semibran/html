@@ -1,6 +1,15 @@
 # html
 > tiny helper functions for creating virtual DOM nodes
 
+```js
+import * as h from '@semibran/html'
+import patch from '@semibran/patch'
+
+patch(document.body, h.body([
+  h.p(['hello world!'])
+]))
+```
+
 ## usage
 [![npm badge]][npm page]
 
