@@ -1,0 +1,14 @@
+{
+  "name": "@semibran/html",
+  "version": "0.0.0",
+  "description": "tiny helper functions for creating virtual DOM nodes",
+  "repository": "semibran/html",
+  "author": "semibran (Brandon Semilla)",
+  "license": "MIT",
+  "main": "lib/html.js",
+  "keywords": [
+    "html",
+    "dom",
+    "virtual-dom"
+  ]
+}
